@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//++++++lyjlyjlyjlyjyljyljyljyjlyl
 public class SmoothFollow : MonoBehaviour {
 
     public float distance = 10.0f;
